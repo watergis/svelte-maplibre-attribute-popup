@@ -1,3 +1,5 @@
+# This package was moved into [watergis/svelte-maplibre-components](https://github.com/watergis/svelte-maplibre-components/tree/main/packages/attribute-popup)
+
 # svelte-maplibre-attribute-popup
 
 This is a svelte component to add attribute popup plugin to maplibre.
